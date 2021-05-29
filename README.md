@@ -15,7 +15,7 @@ Pour le branchement du Trill, suivez cette installation.
 
 - Cable Rouge - 5v
 - Cable Jaune - A5
-- Cable Blanc - A4 
+- Cable Blanc - A4
 - Cable Noir. - GND
 
 Entrez le port connexion indiqué dans l’[IDE Arduino](https://www.arduino.cc/en/software) dans Unity. 
