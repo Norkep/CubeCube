@@ -2,7 +2,7 @@
 En tant qu’étudiant en design d’interactivité, je devais faire un jeu vidéo grâce à Unity et avec Arduino imaginer un gameplay et sa manette de jeu. C’était la première fois qu’on me demandait de concevoir un jeu avec cet IDE Je pensais au début à un jeu inspiré de Angry Birds ou Monument Valley. 
 
 ## Gameplay
-Au niveau du gameplay, il suffit de détruire les structures à l’aide d’un lancer de la balle. Ici avec le trill, glissez le doigt pour lancer la balle. L’idée derrière ce gameplay est de faire un jeu avec des couleurs douces et une musique en lien avec l’univers.
+Au niveau du gameplay, il suffit de détruire les structures à l’aide d’un lancer de la balle. Ici avec le trill, glissez le doigt pour lancer la balle. 
 
 ## Les pré-requis
 Pour jouer à ce jeu vous allez avoir besoin de :
