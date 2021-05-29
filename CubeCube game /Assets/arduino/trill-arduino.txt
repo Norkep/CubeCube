@@ -1,0 +1,7 @@
+Setup Trill Square sur Arduino
+
+Cable Rouge - 5v
+Cable Jaune - A5
+Cable Blanc - A4 
+Cable Noir. - GND
+

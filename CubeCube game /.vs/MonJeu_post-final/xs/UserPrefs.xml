@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{23718F51-0438-41BB-9B83-DD8EA31E193E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/arduino/OneValue/connexion-arduino-2valeurs.cs">
+    <Files>
+      <File FileName="Assets/arduino/OneValue/connexion-arduino-2valeurs.cs" Line="86" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MonJeu_post-final" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ab082fe3-2042-4a5f-9871-e0409333bb62" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
