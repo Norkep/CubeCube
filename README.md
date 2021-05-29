@@ -40,7 +40,7 @@ Ce jeu n’est pas encore totalement terminé. Certains bugs sont encore présen
 - Aller dans ```arduino/Library/trill``` si vous voulez installer la librarie Trill dans l'IDE Arduino. [plus d'infos](https://www.arduino.cc/en/guide/libraries).
 
 ## Remerciements 
-Sans l’aide de Martin et de Bérenger, ce jeu aurait difficilement été possible. Un grand merci à eux. 
+Sans l’aide de Martin et de Bérenger, ce jeu aurait été  difficilement possible. Un grand merci à eux. 
 
 
 
